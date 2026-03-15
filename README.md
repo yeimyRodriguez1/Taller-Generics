@@ -3,4 +3,4 @@ Este repositorio contiene la solución del Taller de Collections y Generics.
 
 Autor
 Yeimy Daniela Rodríguez Acevedo
-Estudiante de Ingeniería de Sistemas
+Estudiante de Ingeniería de Sistemas.
